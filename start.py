@@ -83,12 +83,10 @@ class ColorCheckerApp:
             print(f"{color_name} detected, reroll triggered")
             pyautogui.click(self.reroll_x, self.reroll_y)
         else:
-            print("Selling triggered")
             pyautogui.click(self.sell_x, self.sell_y)
 
     async def main_loop(self):
         print(f"Press '{self.hotkey}' to stop the script. Running...")
-        print(f"Checking color at ({self.check_x}, {self.check_y})")
         
         while self.running and not keyboard.is_pressed(self.hotkey):
             self.update_loop()
