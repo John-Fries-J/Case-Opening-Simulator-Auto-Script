@@ -13,3 +13,15 @@
   </p>
 
 # IF YOU ARE HAVING ISSUES OR ANY SUPPORT QUESTIONS. JOIN MY DISCORD. https://discord.gg/dCCksYzPWU I have notis on for discord so I'll respond ASAP.
+
+
+# To get started:
+<br>
+Click the down arrow next to Code.<br>
+Click on Download ZIP.<br>
+Unarchive start.py<br>
+Double click the program and configure to your liking<br>
+
+YOU MUST HAVE PYTHON DOWNLOADED, GO HERE:https://www.python.org/downloads/ <br>
+
+# Remember, if you run into any issues join my discord and I will help as much as I can!
