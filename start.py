@@ -12,7 +12,7 @@ FPS = 60
 class ColorCheckerApp:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Color Checker")
+        self.root.title("Csgo Case opening script")
         self.root.geometry("300x330")
         
         self.colors = {
